@@ -1,0 +1,22 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593980850671@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4100F406EE2D540018',
+    participant: undefined
+  },
+  messageTimestamp: 1712853762,
+  pushName: 'Kevin Zambrano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Kevin Zambrano',
+  body: 'Jajajajaja',
+  name: 'Kevin Zambrano',
+  from: '593980850671'
+}

@@ -19,7 +19,7 @@ const main = async () => {
         await bot.sendMessage(phone, message, { 
             media: mediaUrl
         })
-        //res.end('esto es del servidor Polka')
+        res.end()
     }))
     await createBot({
         flow: createFlow([flowBienvenida]),
